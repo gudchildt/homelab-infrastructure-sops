@@ -5,7 +5,7 @@
 | Document ID | SOP-PVE-TS-001 |
 | Revision | 1.2 |
 | Last updated | 2026-11-21 |
-| Classification | Public — generic procedure; no environment-specific data |
+| Classification | Public - generic procedure; no environment-specific data |
 | Applies to | Debian-based Proxmox Virtual Environment (VE) hosts |
 | Purpose | Install, authenticate, verify, and persist Tailscale remote-management connectivity |
 | Change type | Host networking / remote administrative access |
